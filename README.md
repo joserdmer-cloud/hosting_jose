@@ -1,1 +1,2 @@
-# hosting_jose
+# MTA Hosting Starter
+Proyecto base para ampliar.
